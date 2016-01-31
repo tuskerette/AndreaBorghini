@@ -18,6 +18,7 @@ h5 {
 }
 
 p {
+    font-family: 'Roboto', sans-serif;
     font-size: 1.2em;
 }
 
@@ -60,6 +61,20 @@ a:visited {
 .rounded {
     border-radius: 50px 0 50px 0;
 }
+
+.section {
+    margin: 20px 0;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #808080;
+    margin: 1em 0;
+    padding: 0;
+}
+
 
 .footer {
     background-color: #f3f3f3;
