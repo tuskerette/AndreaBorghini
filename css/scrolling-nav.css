@@ -29,13 +29,11 @@ html {
 
 
 
-#projects {
+#books,
+#articles,
+#talks,
+#teaching {
     height: 100%;
-    padding-top: 60px;
-}
-
-#about {
-    height: 100%;
-    padding-top: 60px;
+    padding-top: 30px;
 }
 
