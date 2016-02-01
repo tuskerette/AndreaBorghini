@@ -40,7 +40,7 @@ hr {
 }
 
 .navbar-default {
-    background-color: #f3f3f3;
+    background-color: rgba(243, 243, 243, 0.9);
     border-bottom: 1px solid #262626;
  }
 
@@ -83,13 +83,24 @@ a:visited {
 .gutter {
     padding: 0 30px;
 }
+.article-list h3{
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+.article-list h4 {
+    line-height: 1.2em;
+}
+.article-list p {
+    border-bottom: 1px dotted #262626;
+    padding-bottom: 10px;
+}
 
 .footer {
     background-color: #f3f3f3;
     border-top: 1px solid #262626;
     bottom: 0;
     font-size: 90%;
-    height: 160px;
+    height: 110px;
     width: 100%;
 }
 
