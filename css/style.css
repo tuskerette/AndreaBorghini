@@ -34,6 +34,12 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
+.book-title {
+    line-height: 1.5em;
+}
+.book-review {
+    padding-bottom: 5px;
+}
 
 .dashed {
 
